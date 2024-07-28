@@ -1,1 +1,1 @@
-ES BASICS
+ES6 Basics
