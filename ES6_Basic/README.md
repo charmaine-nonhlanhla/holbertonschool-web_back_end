@@ -1,1 +1,1 @@
-ES6 Basics
+Front end web development.
